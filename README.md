@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Under construction Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/nikolay-turpitko/under-construction/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This application is under construction ever and is not intended for public use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a pure proof-of-concept application for our internal tests, debugging, development and research.
 
-### Markdown
+No public users are allowed except explicitly invited testers and developers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you found this application publicly avilable by mistake, please notify us and we'll take measures to hide or remove it.
 
-```markdown
-Syntax highlighted code block
+For your safety do not install or use this application if you found it publicly avilable by mistake and if you were not invited as a tester.
 
-# Header 1
-## Header 2
-### Header 3
+We do not intentionally collect any user's private data with this application, even if it may sometimes appear like this.
 
-- Bulleted
-- List
+We may use this application to test and learn UI or technologies, which we are going to use later in other applications.
 
-1. Numbered
-2. List
+So, sometimes we may test UI or technologies appearing as we're collecting some private data, but it should be fake test data and it will be removed after tests.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikolay-turpitko/under-construction/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Once again, this application is for our own development / test needs only, please do not use it if you were not invited as a tester or developer.
