@@ -1,5 +1,3 @@
-## Under construction Privacy Policy
-
 This application is under construction ever and is not intended for public use.
 
 This is a pure proof-of-concept application for our internal tests, debugging, development and research.
